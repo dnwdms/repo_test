@@ -1,0 +1,22 @@
+
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+ }
+  
+ #image-container{
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+ }
+  
+ #ini-image{
+    width: 100%;
+    height: auto;
+ }
+  
+ #deskripsi-image{
+    text-align: center;
+ }
